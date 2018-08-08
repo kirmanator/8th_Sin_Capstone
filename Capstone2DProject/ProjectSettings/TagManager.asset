@@ -3,26 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Player1
-  - Player2
-  - Enemy
-  - Coin
-  - LittleFatty
-  - Targit
-  - ScreenShaker
-  - Cake
-  - Weapon1
-  - Weapon2
-  - GameMaster
-  - EnemySpawn
-  - nextWave
-  - GameMaster
-  - EnamySpawn
-  - nextWave
-  - Weapon
-  - hitBox
-  - HelthSpawn
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -32,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - foreground
-  - midground
-  - background
-  - enemy
-  - Player
-  - PickUps
-  - projectiles
-  - hitboxes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -59,13 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: enemy
-    uniqueID: 1579442297
-    locked: 0
-  - name: player
-    uniqueID: 3501712105
-    locked: 0
-  - name: foreground
-    uniqueID: 2532416001
     locked: 0
